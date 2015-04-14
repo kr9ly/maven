@@ -2,11 +2,11 @@
 <metadata>
   <groupId>net.kr9ly</groupId>
   <artifactId>salmon</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <versioning>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20150412053948</lastUpdated>
+    <lastUpdated>20150414151112</lastUpdated>
   </versioning>
 </metadata>
