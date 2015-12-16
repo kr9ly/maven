@@ -2,11 +2,11 @@
 <metadata>
   <groupId>net.kr9ly</groupId>
   <artifactId>doubler-compiler</artifactId>
-  <version>0.1.2</version>
   <versioning>
+    <release>0.9.0</release>
     <versions>
-      <version>0.1.2</version>
+      <version>0.9.0</version>
     </versions>
-    <lastUpdated>20151215154020</lastUpdated>
+    <lastUpdated>20151216150228</lastUpdated>
   </versioning>
 </metadata>
